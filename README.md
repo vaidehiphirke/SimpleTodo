@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='WalkthroughSimpleTodo.gif' title='Video Walkthrough' width='11' alt='Video Walkthrough' />
+<img src='WalkthroughSimpleTodo.gif' title='Video Walkthrough' width='270' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
